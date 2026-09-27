@@ -1,0 +1,12 @@
+# Ignore trained model files and directories
+distill-sentiment-model/
+sentiment-model/
+
+# Also include common model checkpoint patterns if they aren't covered
+*.pt
+*.pth
+*.h5
+*.ckpt
+*.safetensors
+*.png
+
