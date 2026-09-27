@@ -1,6 +1,8 @@
 # Ignore trained model files and directories
 distill-sentiment-model/
 sentiment-model/
+gpt-news-model/
+my-gpt-news-model/
 
 # Also include common model checkpoint patterns if they aren't covered
 *.pt
